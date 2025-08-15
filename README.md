@@ -47,4 +47,4 @@ Each lab demonstrates different networking concepts, topologies, and device conf
 1. Install **Cisco Packet Tracer** .
 2. Clone this repository:
    ```bash
-   git clone <https://github.com/ShreyaVijaykumar/Computer-Networks>
+   git clone https://github.com/ShreyaVijaykumar/Computer-Networks
